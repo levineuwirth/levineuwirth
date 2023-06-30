@@ -12,4 +12,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,kotlin,r" />
   </a>
-</p>
+<p align="center">
+    I am a student at Brown University with a passion for learning and building. Much of my work is private due to projects falling under NDAs, or coursework that I cannot reproduce publicly. I am particularly interested in the intersection of mathematics and computer science, and the ways we can use data in a functional way (and automate such use!). I am also interested in security, and I'm a privacy enthusiast.
+    </p>
+
