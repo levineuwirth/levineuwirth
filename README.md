@@ -4,13 +4,13 @@
 <h3 align="center">Languages, Skills </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,cs,docker,html,java,md,py,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,cmake,cpp,cs,docker,html,java,latex,linux,matlab,md,py,pytorch,rust,tensorflow" />
   </a>
 </p>
 <h3 align="center">Learning </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,kotlin,r,rust" />
+    <img src="https://skillicons.dev/icons?i=c,css,fortran,kotlin,octave,r" />
   </a>
 <p align="center">
     I am a student at Brown University with a passion for learning and building. Much of my work is private due to projects falling under NDAs, or coursework that I cannot reproduce publicly. I am particularly interested in the intersection of mathematics and computer science, and the ways we can use data in a functional way (and automate such use!). I am also interested in security, and I'm a privacy enthusiast.
