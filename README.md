@@ -24,6 +24,3 @@
 <p align="center">
    My LinkedIn contains information about larger scale projects that I have completed as well as courses that I have taken. I'm working on a rebuild of my website piece by piece, but am filled with coursework, research, and industry obligations right now, so progress is slow. If you have any questions, want to get to know me, or want an introduction, please reach out!
     </p>
-<p align="center">
-   I am currently set with opportunities and obligations for the Spring 2024 semester - but open to talking about future plans! Reach me at ln@levineuwirth.org, and include your PGP key.
-    </p>
