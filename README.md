@@ -22,5 +22,5 @@
     I am a student at Brown University. I study mathematics and computer science, through which I do innovative research through Brown's UTRA program in the areas of Computer Vision and Machine Learning. My other areas of interest within computer science include Cryptography, Quantum Computing, Security, and Systems. I'm also interested in foreign languages, literature, and poetry. I play trumpet and compose classical music.
     </p>
 <p align="center">
-   My LinkedIn contains information about larger scale projects that I have completed as well as courses that I have taken. I'm working on a rebuild of my website piece by piece, but am filled with coursework, research, and industry obligations right now, so progress is slow. If you have any questions, want to get to know me, or want an introduction, please reach out!
+   My LinkedIn contains information about larger scale projects that I have completed as well as courses that I have taken. Of particular note, this summer I am working towards a major release of the research software I have been working on for several months. Stay tuned for more information on this!
     </p>
