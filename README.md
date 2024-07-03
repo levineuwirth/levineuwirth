@@ -1,4 +1,4 @@
-<h1 align="center">I'm Levi Neuwirth, a student of mathematics and computer science at Brown and a passionate nerd! </h1>
+<h1 align="center">I'm Levi Neuwirth, a student of mathematics and computer science at Brown.
 <h5 align="center">LinkedIn: https://www.linkedin.com/in/levi-neuwirth/ </h5>
 <h5 align="center">Website: https://levineuwirth.org </h5>
 <h3 align="center">Focuses </h3>
