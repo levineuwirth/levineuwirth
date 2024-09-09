@@ -22,5 +22,5 @@
     I am a student at Brown University. I study mathematics and computer science, through which I do innovative research through Brown's UTRA program in the areas of Computer Vision and Machine Learning. My other areas of interest within computer science include Cryptography, Quantum Computing, Security, and Systems. I'm also interested in foreign languages, literature, and poetry. I play trumpet and compose classical music.
     </p>
 <p align="center">
-   My LinkedIn contains information about larger scale projects that I have completed as well as courses that I have taken. Of particular note, this summer I am working towards a major release of the research software I have been working on for several months. Stay tuned for more information on this!
+   For prospective employers: much of my work is not public on GitHub due to my obligations with Brown University and previous employers. Please reach out to me at ln@levineuwirth.org for code samples, which I am happy to provide. I am currently seeking opportunities for the summer of 2025 and would appreciate you reaching out if you have any for which you feel I am a good fit!
     </p>
