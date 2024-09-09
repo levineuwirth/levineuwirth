@@ -10,7 +10,7 @@
 <h3 align="center">Other Languages / Skills </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,cmake,cs,docker,emacs,html,java,latex,matlab,md,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=arch,cmake,cs,docker,emacs,html,java,latex,matlab,md,pytorch,tensorflow,unity" />
   </a>
 </p>
 <h3 align="center">Learning </h3>
