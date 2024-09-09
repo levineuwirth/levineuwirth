@@ -4,7 +4,7 @@
 <h3 align="center">Focuses </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,rust,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,linux,rust,py" />
   </a>
 </p>
 <h3 align="center">Other Languages / Skills </h3>
@@ -16,7 +16,7 @@
 <h3 align="center">Learning </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,fortran,go,kotlin,octave" />
+    <img src="https://skillicons.dev/icons?i=css,fortran,kotlin,octave" />
   </a>
 <p align="center">
     I am a student at Brown University. I study mathematics and computer science, through which I do innovative research through Brown's UTRA program in the areas of Computer Vision and Machine Learning. My other areas of interest within computer science include Cryptography, Quantum Computing, Security, and Systems. I'm also interested in foreign languages, literature, and poetry. I play trumpet and compose classical music.
