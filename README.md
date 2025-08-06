@@ -19,8 +19,6 @@
     <img src="https://skillicons.dev/icons?i=css,fortran,kotlin,octave" />
   </a>
 <p align="center">
-    I am a student at Brown University. I study mathematics and computer science, through which I do innovative research through Brown's UTRA program in the areas of Computer Vision and Machine Learning. My other areas of interest within computer science include Cryptography, Quantum Computing, Security, and Systems. I'm also interested in foreign languages, literature, and poetry. I play trumpet and compose classical music.
+    I am a student at Brown University. I study mathematics and computer science, through which I do innovative research at Brown in machine learning. My other areas of interest within computer science include computational biology, cryptography, quantum computing, security, and systems. I'm also interested in foreign languages, literature, music, and poetry. You can learn more about me at my website!
     </p>
-<p align="center">
-   For prospective employers: much of my work is not public on GitHub due to my obligations with Brown University and previous employers. Please reach out to me at ln@levineuwirth.org for code samples, which I am happy to provide. I am currently seeking opportunities for the summer of 2025 and would appreciate you reaching out if you have any for which you feel I am a good fit!
-    </p>
+
