@@ -1,5 +1,4 @@
 <h1 align="center">I'm Levi Neuwirth, a student of mathematics and computer science at Brown.
-<h2> As of August 2025, I've migrated to Codeberg. Find me on Codeberg instead of GitHub - @levineuwirth!
 <h3 align="center">Focuses </h3>
 <p align="center">
   <a href="https://skillicons.dev">
