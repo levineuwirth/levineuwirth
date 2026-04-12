@@ -1,17 +1,24 @@
-<h1 align="center">I'm Levi Neuwirth, a student of mathematics and computer science at Brown.
-<h3 align="center">Focuses </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,go,linux,rust,zig" />
-  </a>
-</p>
-<h3 align="center">Other Languages / Skills </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,cpp,cs,docker,emacs,haskell,html,java,js,latex,lua,matlab,md,py,pytorch,r,tensorflow,ts,unity" />
-  </a>
-</p>
-<p align="center">
-    I am a student at Brown University. I study mathematics and computer science, through which I do innovative research at Brown in machine learning. My other areas of interest within computer science include computational biology, cryptography, quantum computing, security, and systems. I'm also interested in foreign languages, literature, music, and poetry. You can learn more about me at my website!
-    </p>
+# Levi Neuwirth
 
+Computer scientist, mathematician, composer, writer, and foremost: a student of the Universe.
+
+
+> This restless inquiry — consuming and creating in the same
+> breath — is at the core of who I am.
+
+I build things across domains that most people keep separate: formal
+research in computer science and mathematics, musical compositions,
+literary writing, tons of other miscellany, and the
+infrastructure that holds all of it together.
+
+**[levineuwirth.org](https://levineuwirth.org)** is the home for all
+of this — research, compositions, essays, poetry, and a great deal
+more. Start there.
+
+My primary development happens on my
+**[Forgejo instance](https://git.levineuwirth.org/neuwirth)**.
+Repositories here are mirrors and selected public artifacts.
+
+---
+
+[Website](https://levineuwirth.org) · [Forgejo](https://git.levineuwirth.org/neuwirth) · [Email](mailto:ln@levineuwirth.org) · [ORCID](https://orcid.org/0009-0002-0162-3587) · [GPG](https://levineuwirth.org/gpg.html)
