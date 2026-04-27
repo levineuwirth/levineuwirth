@@ -4,7 +4,7 @@ Computer scientist, mathematician, composer, writer, and foremost: a student of 
 
 > This restless inquiry — consuming and creating in the same breath — is at the core of who I am.
 
-This fall I begin graduate study in computer science at the **Technical University of Denmark (DTU)**, with the intention of continuing to PhD studies. My research clusters into three threads:
+This fall I begin graduate study in computer science at the **Technical University of Denmark (DTU)**, with the intention of earning a PhD. My research clusters into three threads:
 
 - **Machine learning** — order-invariant ICD-10-CM embeddings (under review at *JAMA Network Open*, with a deployed calculator); the NeuroPose 3D-kinematics system in Liqi Shu's lab at Brown Neurology; ongoing research engineering at [NeuroAI](https://neuroai.health).
 - **Computer systems and high-performance computing** — the Weenix kernel; a TCP/IP networking stack from scratch in Go; micro-architectural performance work (SIMD, PAPI counters, RAPL energy, cross-ISA ports across AVX2 / ARM NEON-SVE / RISC-V V) on Brown's OSCAR HPC cluster.
