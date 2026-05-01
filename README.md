@@ -40,7 +40,7 @@ Emacs · Docker · Linux (Arch, Gentoo)
 
 - **`icd_embeddings`** — JAMA submission code and the live outcome calculator (Python / TensorFlow / Deep Sets).
 - **`neuropose`** — 3D pose-estimation and kinematic-analysis system for neurological-recovery research (Python / TensorFlow / Rust / MATLAB).
-- **`where-simd-helps`** — Phase 1 of the SIMD micro-architectural study: AVX2 assembly, statistical pipeline, reproducible artifact (C / x86-64 asm / Python).
+- **`LeVCS`** — A decentralized, federated-first version control system that builds on Git's pitfalls.
 - **`arcana`** — early-stage reinforcement-learning agent for *Magic: The Gathering* on Brown's OSCAR HPC cluster *(work in progress)*.
 
 ---
