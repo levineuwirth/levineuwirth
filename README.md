@@ -1,6 +1,6 @@
 # Levi Neuwirth
 
-[Website](https://levineuwirth.org) · [CV](https://levineuwirth.org/cv.pdf) · [Email](mailto:ln@levineuwirth.org) · [GPG](https://levineuwirth.org/gpg.html) · [ORCID](https://orcid.org/0009-0002-0162-3587)
+[**Work**](https://levineuwirth.org/work.html) · [CV](https://levineuwirth.org/cv.pdf) · [Website](https://levineuwirth.org) · [Email](mailto:ln@levineuwirth.org) · [GPG](https://levineuwirth.org/gpg.html) · [ORCID](https://orcid.org/0009-0002-0162-3587)
 
 I work on technical AI assurance, establishing verifiable claims about what a model
 actually did, when the operator, the evaluator, or the model itself may not be trusted.
