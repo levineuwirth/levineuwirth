@@ -19,7 +19,7 @@ profiler with a manifest contract, cost model, execution DAG, and partition scor
 cost-model corrections matching the paper's analysis
 ([merged PRs](https://github.com/JamesPetrie/VerInf/pulls?q=is%3Apr+author%3Alevineuwirth)).
 Currently porting the verifier from single-chip to multi-GPU and working on mathematical
-techniques for further optimization. Write-up expected October 2026.
+techniques for further optimization. Technical write-up expected Q4 2026, for review and publication.
 
 **Frontier-model evaluation and red-teaming** — reasoning evaluation, red-teaming,
 RL environments, and evaluation research under contract. What I can discuss publicly is limited.
