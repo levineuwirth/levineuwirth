@@ -24,11 +24,15 @@ techniques for further optimization. Technical write-up expected Q4 2026, for re
 **Frontier-model evaluation and red-teaming** — reasoning evaluation, red-teaming,
 RL environments, and evaluation research under contract. What I can discuss publicly is limited.
 
-**[proof-broker](https://github.com/levineuwirth/proof-broker)** — brokers proof goals from
-Lean 4 and Rocq through a shared IR to SMT solvers, ATPs, and LLM provers, then verifies
-returned certificates and lifts proof terms back to the home system. The verifier is
-strictly fail-closed: it refutes the negated goal, checking for smuggled axioms rather than
-trusting prover output.
+**[proof-broker](https://github.com/levineuwirth/proof-broker)** — a certificate boundary for
+untrusted proof search. Lean 4 and Rocq goals go through a shared IR to SMT solvers, saturation
+provers, and language models; a result counts only if its certificate checks and the home kernel
+accepts the proof. [R4](https://github.com/levineuwirth/proof-broker/releases/tag/r4) closed 19/19
+targeted obligations in an unmodified VerInf file.
+[R6](https://github.com/levineuwirth/proof-broker/releases/tag/r6) put a live model behind the
+boundary under an audited protocol: all 80 feasible certificates verified, yet proofs covered 6 of
+15 obligations. Reconstruction, not proposal, was the constraint.
+([Write-up](https://levineuwirth.org/essays/proof-broker/))
 
 **[icd_embeddings](https://github.com/levineuwirth/icd_embeddings)** — order-invariant
 ICD-10-CM embeddings for 30-day readmission and post-discharge mortality, trained on the
