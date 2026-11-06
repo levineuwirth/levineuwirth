@@ -13,8 +13,9 @@ graduate student in computer science and engineering at DTU; previously CS and m
 ## Selected work
 
 **Verifiable LLM inference** (MARS V, ongoing) — zero-knowledge proofs of LLM inference that
-mutually distrustful parties can check on their own hardware. My work in
-[JamesPetrie/VerInf](https://github.com/JamesPetrie/VerInf), merged upstream: a dry-run profiler
+mutually distrustful parties can check on their own hardware. Anthropic's FlashProve post calls
+[VerInf](https://github.com/JamesPetrie/VerInf) "the only earlier proof of Llama 4 Maverick that we
+know of." My work, merged upstream: a dry-run profiler
 and cost model validated at full Llama 4 Maverick scale; a weight split whose partitioned proofs
 are byte-identical to ordinary ones; weight caches; the integration and hardening of the
 expert-weight bridge, which I now develop; and repairs to the attention, activation, and
@@ -22,7 +23,7 @@ surprisal constraints after a collaborator's review, each counterexample now a r
 Top-k routing, the form Kimi K2 uses, runs on a toy model
 ([merged PRs](https://github.com/JamesPetrie/VerInf/pulls?q=is%3Apr+author%3Alevineuwirth) ·
 [essay](https://levineuwirth.org/essays/verified-inference/)).
-Technical write-up expected Q4 2026, for review and publication.
+Paper expected Q4 2026.
 
 **Frontier-model evaluation and red-teaming** — reasoning evaluation, red-teaming,
 RL environments, and evaluation research under contract. What I can discuss publicly is limited.
